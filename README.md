@@ -32,6 +32,9 @@ The project exemplifies proficiency in:
 - **Performance Optimization**: Fine-tuning the model for maximum accuracy and reliability.
 
 ---
+## 📥 Dataset Used  
+ 
+🔗 **[Images Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)**  
 
 ## 🔍 About the Project  
 
