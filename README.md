@@ -9,6 +9,22 @@ Welcome to the **Pneumonia Detection Project**—an innovative application of de
 ### 🚀 Purpose-Driven Innovation  
 This project was developed with the goal of supporting medical professionals in diagnosing pneumonia more efficiently and accurately. Pneumonia, a leading cause of illness worldwide, requires prompt and precise detection. By automating the diagnostic process, this solution can significantly reduce workloads and improve patient outcomes.
 
+## 🤖 Models Used
+The project utilizes multiple model architectures, including both pre-trained models and a customized CNN, ensuring comprehensive and accurate pneumonia detection. Here's a brief overview of the models used:
+
+1. DenseNet
+Key Strengths: Dense connections between layers improve feature reuse and learning efficiency.
+Performance: Achieves excellent accuracy by capturing fine-grained features in medical images.
+2. VGG16
+Key Strengths: Simple, deep architecture with 16 layers, effective at capturing spatial hierarchies.
+Performance: Provides a strong baseline due to its reliable and consistent performance.
+3. ResNet50
+Key Strengths: Uses residual connections to overcome vanishing gradient issues, enabling deeper networks to train effectively.
+Performance: Excels in extracting complex features, offering robust classification results.
+4. Customized CNN
+Key Strengths: Tailored specifically for this project, with a combination of convolutional, pooling, and fully connected layers, optimized for pneumonia detection.
+Performance: Offers a lightweight alternative with competitive accuracy and reduced computational overhead.
+
 ### 🧑‍💻 Technical Excellence  
 The project exemplifies proficiency in:
 - **Deep Learning Model Development**: Designing and training a powerful image classification model.
@@ -68,7 +84,7 @@ This project is more than a technical exercise—it's a tangible solution that c
 ## 📥 Repository Access  
 
 Explore the project in detail and see the code in action here:  
-🔗 **[Pneumonia Detection Project Repository](https://github.com/your-username/pneumonia-detection)**  
+🔗 **[Pneumonia Detection Project Repository](https://github.com/souravroul0408/Pneumonia-Detection-using-Deep-Learnig)**  
 
 ---
 
